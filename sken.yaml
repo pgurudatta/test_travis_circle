@@ -2,7 +2,7 @@ orgid: 653d9720-8a13-4693-a152-ed82b81222fb
 appid: cfaed5ef-66f7-4a50-92e2-8b5596ef1f64
 
 # optional Param section start
-buildtool: travis # optional param, values=jenkins|travis
+buildtool: circleCI # optional param, values=jenkins|travis
 scanner: sast # optional param, default is ALL
 language: ruby # optional param, default is Auto-Detect
 
